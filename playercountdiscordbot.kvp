@@ -1,7 +1,7 @@
 Meta.DisplayName=PlayerCountDiscordBot
 Meta.Description=
 Meta.Arch=x86_64
-Meta.Author=Specker - Made with AMP Config Generator
+Meta.Author=Specker
 Meta.URL=https://github.com/GravityWolfNotAmused/PlayerCountDiscordBot
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
