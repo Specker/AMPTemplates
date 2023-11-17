@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Release",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "playercountbot-latest-2023-05-22.zip",
+        "UpdateSourceArgs": "GravityWolfNotAmused/PlayerCountDiscordBot",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
